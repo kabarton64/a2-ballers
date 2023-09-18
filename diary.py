@@ -11,5 +11,5 @@ class diary:
         file.write(content)
         file.close()
 
-    def rem_entry(title):
-        os.remove(title)
+    def rem_entry(self, title):
+        os.remove(self.diaryname + "/" + title + ".txt")
