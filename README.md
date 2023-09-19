@@ -1,5 +1,5 @@
 # a2-ballers
-Here are some methods to use while creating your Diary within the main function.
+Here are some methods to help with creating your Diary within the main function.
 
 Add Entry: In order to add an entry into the diary simply put "add_entry("title of entry, content of entry")" to create a new entry.
 
